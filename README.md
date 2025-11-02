@@ -14,16 +14,19 @@
 ✅ اوبونتو 22.04 LTS
 
 
-�## 🚀 نصب و اجرا
+## 🚀 نصب و اجرا
 
 ### روش سریع (توصیه شده)
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/your-username/3x-ui-helper/main/3x-ui-helper.sh)
+```
 or
 
-'''wget https://raw.githubusercontent.com/your-username/3x-ui-helper/main/3x-ui-helper.sh
+```
+wget https://raw.githubusercontent.com/your-username/3x-ui-helper/main/3x-ui-helper.sh
 chmod +x 3x-ui-helper.sh
 ./3x-ui-helper.sh
+```
 
 
 +---------------------------------------+
