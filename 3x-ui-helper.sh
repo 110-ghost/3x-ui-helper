@@ -242,7 +242,7 @@ show_menu() {
     echo -e "${C_BLUE}  \   \    | |_| | _ | |_| |___) || |     ${C_RESET}"
     echo -e "${C_BLUE}   '~~~'    \____|_| |_|\___/|____/ |_|     ${C_RESET}"
     echo -e "${C_CYAN}-----------------------------------------------------${C_RESET}"
-    echo -e "${C_BLUE}      3x-ui Telegram Backup Bot by GHOST           ${C_RESET}"
+    echo -e "${C_BLUE}    install panel 3x-ui && Change Core by GHOST      ${C_RESET}"
     echo -e "${C_CYAN}=====================================================${C_RESET}"
     
     echo -e "1. ${C_YELLOW}Update Xray Core (Download from GitHub)${C_RESET}"
