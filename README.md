@@ -29,13 +29,13 @@ chmod +x 3x-ui-helper.sh
 ```
 
 
-+---------------------------------------+
-| Checking Dependencies...              |
-| ✓ unzip is installed                  |
-| ✓ wget is installed                   |
-| ✓ curl is installed                   |
-| All dependencies are satisfied.       |
-+---------------------------------------+
+echo "┌───────────────────────────────────────┐"
+echo "│ Checking Dependencies...              │"
+echo "│ ✓ unzip is installed                  │"
+echo "│ ✓ wget is installed                   │"
+echo "│ ✓ curl is installed                   │"
+echo "│ All dependencies are satisfied.       │"
+echo "└───────────────────────────────────────┘"
 
 =====================================================
   .-.       ____ _  _ ___  ____ _____   
