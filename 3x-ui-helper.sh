@@ -236,10 +236,10 @@ install_offline() {
 show_menu() {
     # ASCII Art Header
     echo -e "${C_CYAN}=====================================================${C_RESET}"
-    echo -e "${C_BLUE}  .-.       ____ _  _ ___  ____ _____   ${C_RESET}"
+    echo -e "${C_BLUE}  .-.        ____ _   _  ___  ____ _____   ${C_RESET}"
     echo -e "${C_BLUE} (o o) boo! / ___| | | |/ _ \/ ___|_  _|   ${C_RESET}"
     echo -e "${C_BLUE} | O \     | |  _| |_| | | | \___ \ | |     ${C_RESET}"
-    echo -e "${C_BLUE}  \   \    | |_| | _ | |_| |___) || |     ${C_RESET}"
+    echo -e "${C_BLUE}  \   \    | |_| |  _  | |_| |___) || |     ${C_RESET}"
     echo -e "${C_BLUE}   '~~~'    \____|_| |_|\___/|____/ |_|     ${C_RESET}"
     echo -e "${C_CYAN}-----------------------------------------------------${C_RESET}"
     echo -e "${C_BLUE}    install panel 3x-ui && Change Core by GHOST      ${C_RESET}"
